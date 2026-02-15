@@ -7,7 +7,7 @@ import yt_dlp
 
 
 
-bot = telebot.TeleBot('6532678746:AAGGIJfxIjZdM0PQ7UCmP--3qbRLerLbFVc')
+bot = telebot.TeleBot(YOURAPI)
 
 
 
